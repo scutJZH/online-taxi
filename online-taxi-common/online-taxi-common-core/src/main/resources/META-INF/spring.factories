@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.jzh.online.taxi.common.core.configuration.ObjectMapperConfiguration,\
+com.jzh.online.taxi.common.core.exception.GlobalExceptionHandler
